@@ -38,7 +38,7 @@ def main():
   ██║░░██║░░░██║░░░██║░░░░░███████╗░░░██║░░░██║░░██║██║░░██║███████╗██║░░██║██████╔╝██████╔╝
   ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░╚═════╝░
   token checker(script: basico)
-  by zelensky#0001
+  by nebularky
   my server https://discord.gg/hypethreads''')
 
     token = input(Fore.RED + 'Ingrese el token que desea revisar: ')
