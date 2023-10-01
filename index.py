@@ -1,5 +1,4 @@
-/*token checker muy basico, si llegaras a requerir de una herramienta que revise todo sobre una cuenta de discord
-    no dudes en contactarme, puedo hacer uno que revise mensajes, servidores, amigos, suscripcion, creacion etc*/
+
 import requests
 from colorama import init, Fore, Style
 
